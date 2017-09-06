@@ -1,0 +1,4 @@
+#VER https://gist.github.com/seanhinkley/6eab2130ceea857c160b
+#resources/META-INF/spring.factories
+#bootstrap in your thymeleaf 3 config
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=br.senac.tads4.dsw.tadsstore.spring.CustomThymeleafConfig
